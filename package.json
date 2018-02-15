@@ -14,6 +14,10 @@
     "morgan": "~1.9.0",
     "request": "^2.83.0",
     "serve-favicon": "~2.4.5",
-    "utopian-api": "^0.3.2"
+    "utopian-api": "^0.3.2",
+    "boom": "6.0.0",
+    "cryptiles": "4.0.1",
+    "hoek": "5.0.3",
+    "sntp": "3.0.0"
   }
 }
